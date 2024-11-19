@@ -4,6 +4,38 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 # Federated Learning Schedule: Nov 20, 2024 – Dec 20, 2024
 
+# Resources
+
+---
+
+## Books
+
+- [Books](resources/books/books.md)
+
+---
+
+## Research Papers
+
+- [ResearchPapers](resources/researchpapers/papers.md)
+
+---
+
+## Online Resoruce Links
+
+- [Links](resources/links.md)
+
+---
+
+## Avaliable Dataset
+
+- [Dataset](code/datasets.md)
+
+---
+
+## Federated Learning Frameworks, Libraries and Platform
+
+- [Frameworks](code/federated_learning_frameworks.md)
+
 ---
 
 ## **November 2024**
@@ -325,19 +357,3 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 - **Resource**:
 
 ---
-
-# Resources
-
-- [Books](resources/books/books.md)
-
----
-
-- [ResearchPapers](resources/researchpapers/papers.md)
-
----
-
-- [Links](resources/links.md)
-
----
-
-- [Dataset](code/datasets.md)
