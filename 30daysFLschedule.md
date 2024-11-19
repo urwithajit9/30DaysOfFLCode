@@ -1,8 +1,4 @@
-# 30DaysOfFLCode
-
-A repo for collecting and aggregating FL resources during Openminded 30 Days of FL code event
-
-# Federated Learning Schedule: Nov 20, 2024 – Dec 20, 2024
+# Federated Learning Schedule: Nov 20, 2024 – Dec 20, 2024 (# 30DaysOfFLCode)
 
 ---
 
@@ -319,7 +315,3 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 - **Resource**:
 
 ---
-
-# Resources
-
-- [Books](resources/books/books.md)
