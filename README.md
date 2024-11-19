@@ -323,3 +323,13 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 # Resources
 
 - [Books](resources/books/books.md)
+
+---
+
+- [ResearchPapers](resources/researchpapers/papers.md)
+
+---
+
+- [Links](resources/links.md)
+
+---
