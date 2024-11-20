@@ -48,6 +48,8 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 2. McMahan, Brendan, et al. "Communication-efficient learning of deep networks from decentralized data." Artificial intelligence and statistics. PMLR, 2017. [Link](https://arxiv.org/abs/1602.05629)
 
+3. Kairouz, Peter, et al. "Advances and open problems in federated learning." Foundations and trends® in machine learning 14.1–2 (2021): 1-210. [Link](https://arxiv.org/abs/1912.04977)
+
 --
 
 - **Exercise**:

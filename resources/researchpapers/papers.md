@@ -16,4 +16,4 @@
 
 4. Wen, Jie, et al. "A survey on federated learning: challenges and applications." International Journal of Machine Learning and Cybernetics 14.2 (2023): 513-535. [Link](https://link.springer.com/article/10.1007/s13042-022-01647-y)
 
-5.
+5. Kairouz, Peter, et al. "Advances and open problems in federated learning." Foundations and trends® in machine learning 14.1–2 (2021): 1-210. [Link](https://arxiv.org/abs/1912.04977)
