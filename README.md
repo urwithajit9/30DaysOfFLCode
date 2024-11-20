@@ -1,5 +1,7 @@
 # 30DaysOfFLCode
 
+![30DaysOfFLCodeHashTag](https://info.openmined.org/hubfs/30dayspromo.png)
+
 A repo for collecting and aggregating FL resources during Openminded 30 Days of FL code event
 
 # Federated Learning Schedule: Nov 20, 2024 – Dec 20, 2024
