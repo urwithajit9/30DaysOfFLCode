@@ -44,7 +44,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 20, 2024 (Wednesday):** Introduction to Federated Learning
 
-- **Reding**:
+- **Reading**:
 
 1. Shokri, R., & Shmatikov, V. (2015, October). Privacy-preserving deep learning. In Proceedings of the 22nd ACM SIGSAC conference on computer and communications security (pp. 1310-1321). [Link](https://dl.acm.org/doi/10.1145/2810103.2813687)
 
@@ -62,7 +62,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 21, 2024 (Thursday):** Federated Learning vs. Distributed ML
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -72,7 +72,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 22, 2024 (Friday):** Federated Averaging (FedAvg)
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -82,7 +82,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 23, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -92,7 +92,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 24, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -102,7 +102,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 25, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -112,7 +112,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 26, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -122,7 +122,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 27, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -132,7 +132,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 28, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -142,7 +142,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 29, 2024 (Friday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -152,7 +152,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Nov 30, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -164,7 +164,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 1, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -174,7 +174,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 2, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -184,7 +184,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 3, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -194,7 +194,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 4, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -204,7 +204,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 5, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -214,7 +214,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 6, 2024 (Friday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -224,7 +224,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 7, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -234,7 +234,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 8, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -244,7 +244,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 9, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -254,7 +254,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 10, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -264,7 +264,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 11, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -274,7 +274,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 12, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -284,7 +284,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 13, 2024 (Friday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -294,7 +294,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 14, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -304,7 +304,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 15, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -314,7 +314,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 16, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -324,7 +324,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 17, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -334,7 +334,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 18, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -344,7 +344,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 19, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -354,7 +354,7 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 ### **Dec 20, 2024 (Friday):** Future of Federated Learning
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
