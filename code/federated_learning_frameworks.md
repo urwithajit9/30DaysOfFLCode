@@ -21,3 +21,7 @@
 10. FLlib: An open-source library developed by Intel that provides tools for building federated learning systems using TensorFlow.[Link]()
 
 11. Scaleout Systems [Link](https://www.scaleoutsystems.com/)
+
+12. NVIDIA FLARE [Link](https://github.com/NVIDIA/NVFlare)
+
+13. SyftBox [Link] (https://github.com/OpenMined/syft)
