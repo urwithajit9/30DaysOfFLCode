@@ -6,7 +6,7 @@
 
 ### **Nov 20, 2024 (Wednesday):** Introduction to Federated Learning
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -16,7 +16,7 @@
 
 ### **Nov 21, 2024 (Thursday):** Federated Learning vs. Distributed ML
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -26,7 +26,7 @@
 
 ### **Nov 22, 2024 (Friday):** Federated Averaging (FedAvg)
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -36,7 +36,7 @@
 
 ### **Nov 23, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -46,7 +46,7 @@
 
 ### **Nov 24, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -56,7 +56,7 @@
 
 ### **Nov 25, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -66,7 +66,7 @@
 
 ### **Nov 26, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -76,7 +76,7 @@
 
 ### **Nov 27, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -86,7 +86,7 @@
 
 ### **Nov 28, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -96,7 +96,7 @@
 
 ### **Nov 29, 2024 (Friday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -106,7 +106,7 @@
 
 ### **Nov 30, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -118,7 +118,7 @@
 
 ### **Dec 1, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -128,7 +128,7 @@
 
 ### **Dec 2, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -138,7 +138,7 @@
 
 ### **Dec 3, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -148,7 +148,7 @@
 
 ### **Dec 4, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -158,7 +158,7 @@
 
 ### **Dec 5, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -168,7 +168,7 @@
 
 ### **Dec 6, 2024 (Friday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -178,7 +178,7 @@
 
 ### **Dec 7, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -188,7 +188,7 @@
 
 ### **Dec 8, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -198,7 +198,7 @@
 
 ### **Dec 9, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -208,7 +208,7 @@
 
 ### **Dec 10, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -218,7 +218,7 @@
 
 ### **Dec 11, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -228,7 +228,7 @@
 
 ### **Dec 12, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -238,7 +238,7 @@
 
 ### **Dec 13, 2024 (Friday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -248,7 +248,7 @@
 
 ### **Dec 14, 2024 (Saturday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -258,7 +258,7 @@
 
 ### **Dec 15, 2024 (Sunday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -268,7 +268,7 @@
 
 ### **Dec 16, 2024 (Monday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -278,7 +278,7 @@
 
 ### **Dec 17, 2024 (Tuesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -288,7 +288,7 @@
 
 ### **Dec 18, 2024 (Wednesday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -298,7 +298,7 @@
 
 ### **Dec 19, 2024 (Thursday):**
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
@@ -308,7 +308,7 @@
 
 ### **Dec 20, 2024 (Friday):** Future of Federated Learning
 
-- **Reding**:
+- **Reading**:
 
 - **Exercise**:
 
