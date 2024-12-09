@@ -361,3 +361,5 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 - **Resource**:
 
 ---
+
+- **Social Post**: - [Linked Post](days/daily_post_link.md)
