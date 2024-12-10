@@ -18,7 +18,7 @@
 - 18 [Day 18] (https://www.linkedin.com/posts/activity-7271161847490211840-FXac)
 - 19 [Day 19] (https://www.linkedin.com/posts/activity-7271518647997599745-pDGA)
 - 20 [Day 20] (https://www.linkedin.com/posts/activity-7271897782662107136-oEMd)
-- 21 [Day 21] ()
+- 21 [Day 21] (https://www.linkedin.com/posts/activity-7272246393325416448-jn9o)
 - 22 [Day 22] ()
 - 23 [Day 23] ()
 - 24 [Day 24] ()
