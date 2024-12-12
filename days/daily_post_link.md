@@ -20,7 +20,7 @@
 - 20 [Day 20] (https://www.linkedin.com/posts/activity-7271897782662107136-oEMd)
 - 21 [Day 21] (https://www.linkedin.com/posts/activity-7272246393325416448-jn9o)
 - 22 [Day 22] (https://www.linkedin.com/posts/activity-7272626160822304768-qvTe)
-- 23 [Day 23] ()
+- 23 [Day 23] (https://www.linkedin.com/posts/activity-7272985857656008704-SAlD)
 - 24 [Day 24] ()
 - 25 [Day 25] ()
 - 26 [Day 26] ()
