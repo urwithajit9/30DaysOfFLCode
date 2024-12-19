@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "/home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete/fhe/compilation/module_compiler.py", line 437, in compile
+    output = FheModule(
+             ^^^^^^^^^^
+  File "/home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete/fhe/compilation/module.py", line 638, in __init__
+    self.execution_runtime.init()
+  File "/home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete/fhe/compilation/utils.py", line 58, in init
+    self._val = self._init()
+                ^^^^^^^^^^^^
+  File "/home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete/fhe/compilation/module.py", line 622, in init_execution
+    execution_server = Server.create(
+                       ^^^^^^^^^^^^^^
+  File "/home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete/fhe/compilation/server.py", line 243, in create
+    compilation_result = support.compile(mlir, options, compilation_context)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete/compiler/library_support.py", line 172, in compile
+    self.cpp().compile(
+RuntimeError: Can't emit artifacts: Command failed:ld --shared -o /tmp/tmpc3calm6q/sharedlib.so /tmp/tmpc3calm6q/program.module-0.mlir.o /home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete_python.libs/libConcretelangRuntime-e25ea7bc.so -rpath=/home/ajit/anaconda3/envs/concreteML/lib/python3.11/site-packages/concrete_python.libs --disable-new-dtags 2>&1
+Code:32512
+sh: 1: ld: not found
+

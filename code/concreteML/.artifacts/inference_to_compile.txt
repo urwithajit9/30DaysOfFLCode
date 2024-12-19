@@ -1,0 +1,10 @@
+        def inference_to_compile(q_X: numpy.ndarray) -> numpy.ndarray:
+            """Compile the circuit in FHE using only the inputs as parameters.
+
+            Args:
+                q_X (numpy.ndarray): The quantized input data
+
+            Returns:
+                numpy.ndarray: The circuit is outputs.
+            """
+            return self._inference(q_X)
